@@ -801,6 +801,8 @@ header {
   transform: rotate(-135deg);
 }
 
+
+
 .whatsapp{
   display: flex!important;
     align-items: center!important;
@@ -845,6 +847,9 @@ header {
 
 .section-overlay.media {
   z-index: -250;
+}
+.mt-5{
+  margin-top:24px;
 }
 
 .section-overlay img {
